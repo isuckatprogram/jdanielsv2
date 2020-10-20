@@ -48,7 +48,6 @@ class Projects extends React.Component{
             <p>This was a project I created when I was bored. It automatically gets random github usernames and follows them. ( It's currently down since GitHub told me to stop )</p>
           </div>
 
-
           <div className="projects">
             <a href="https://writer.jdaniels.me"><h2>Typer</h2></a>
             <p>A website that you can test your typing speed. It gives a few sentences to type out and records your WPM.</p>
