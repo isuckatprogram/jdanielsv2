@@ -1233,7 +1233,7 @@ class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
       __self: this
     }), __jsx("script", {
       async: true,
-      src: "https://arc.io/widget.js#8BsJZj7h",
+      src: "https://arc.io/widget.min.js#8BsJZj7h",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 45

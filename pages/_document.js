@@ -42,7 +42,7 @@ class MyDocument extends Document {
         `,
             }}
           />
-					<script async src="https://arc.io/widget.js#8BsJZj7h"></script>
+					<script async src="https://arc.io/widget.min.js#8BsJZj7h"></script>
         </Head>
         <body>
           <Main />

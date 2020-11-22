@@ -2,7 +2,15 @@
       <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
           
                  <url>
+                  <loc>https://jdaniels.me/about</loc>
+                </url>
+                  
+                 <url>
                   <loc>https://jdaniels.me/</loc>
+                </url>
+                  
+                 <url>
+                  <loc>https://jdaniels.me/projects</loc>
                 </url>
                   
                  <url>
@@ -15,6 +23,10 @@
                   
                  <url>
                   <loc>https://jdaniels.me/public/robots.txt</loc>
+                </url>
+                  
+                 <url>
+                  <loc>https://jdaniels.me/public/sitemap.xml</loc>
                 </url>
                   
       </urlset>
